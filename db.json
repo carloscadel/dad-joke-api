@@ -92,6 +92,31 @@
       "id": 15,
       "jokeId": 4,
       "score": 10
+    },
+    {
+      "jokeId": 1,
+      "score": 1000,
+      "id": 16
+    },
+    {
+      "jokeId": 1,
+      "score": 1000,
+      "id": 17
+    },
+    {
+      "jokeId": 1,
+      "score": 1000,
+      "id": 18
+    },
+    {
+      "jokeId": 1,
+      "score": 1000,
+      "id": 19
+    },
+    {
+      "jokeId": 1,
+      "score": 1000,
+      "id": 20
     }
   ]
 }

@@ -6,10 +6,12 @@ This API is built with [JSON Server](https://github.com/typicode/json-server). I
 
 ## Running the app locally
 
-1. `npm install`
-2. `npm start`
+This will install the required dependencies and will start the json-server API on port 3000:
+`npm install`
+`npm start`
 
-This will start the json-server API on port 3000.
+Then, on another terminal, run the following command to start the GraphQL server on port 4000:
+`npm run start:apollo`
 
 ## REST API with json-server
 
